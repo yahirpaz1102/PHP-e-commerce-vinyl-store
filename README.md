@@ -30,8 +30,6 @@ This is a web-based e-commerce shopping cart application built using **Laravel (
 - Empties the cart after checkout
 - Displays user’s past orders (Order Listing Page)
 
-## 📸 Screenshots (Optional)
-> _Add screenshots of Product Listing, Cart, Checkout page, or Admin Panel here if available._
 
 ## 🛠 Technologies Used
 
@@ -42,10 +40,4 @@ This is a web-based e-commerce shopping cart application built using **Laravel (
 - **Laravel Seeders** for initial data
 - **Bootstrap** (or your chosen CSS framework)
 
-## ⚙️ Setup Instructions
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/vinyl-ecommerce.git
-   cd vinyl-ecommerce
