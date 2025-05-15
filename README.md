@@ -14,12 +14,12 @@ This is a web-based e-commerce shopping cart application built using **Laravel (
   - Description
   - Price
   - Cover image
-  - Audio snippet (preview)
+  - Audio snippet 
 - Admin panel for managing products
 
 ### 🛒 Shopping Cart (Customer)
-- Browse all available vinyls (Product Listing Page)
-- View detailed product information (Product Detail Page)
+- Browse all available vinyls 
+- View detailed product information 
 - Add vinyls to the cart
 - Update quantity or remove items from the cart
 - One cart per user session
@@ -36,8 +36,7 @@ This is a web-based e-commerce shopping cart application built using **Laravel (
 - **PHP** (Laravel 10)
 - **PostgreSQL**
 - **Blade Templates** for frontend
-- **Laravel Eloquent ORM**
 - **Laravel Seeders** for initial data
-- **Bootstrap** (or your chosen CSS framework)
+- **Bootstrap** 
 
 
